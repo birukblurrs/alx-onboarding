@@ -1,9 +1,0 @@
-user assigns two numbers for x and y.
- IF x and y are given by the user.
-	Take (x)squared and (y)squared.
-	  Take the squared values and sum them up.
-	   Display the sum;
-			
-
-
-
