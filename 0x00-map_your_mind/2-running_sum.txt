@@ -1,0 +1,5 @@
+INPUT x from user
+	TAKE  that x and add it to a default number b
+	lets call the new value z
+	If x<0(if x less than zero or if it a negative number)
+	STOP adding and display z

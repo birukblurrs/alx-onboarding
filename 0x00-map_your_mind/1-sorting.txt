@@ -1,0 +1,8 @@
+Take 3 numbers from input
+Lets name them A,B,C
+	IF A>B and A>C
+then put A first
+then check if B is greater than C
+	IF B>C
+then put b next
+And C last
